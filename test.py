@@ -18,4 +18,4 @@ for layer in range(1, len(test_layer_dims)):
 print("\nNeuralNet.initialize_parameters passed | {:.2f}ms".format((end - start) * 1000))
 
 
-# linear forward on instantiated
+# linear forward on instantiated network
